@@ -1,3 +1,4 @@
+![Tac Toe Upgrade](./public/Tic%20Tac%20Toe%20Upgrade%20.jpg)
 # How to start
 # 1. Install dependencies
 ```shell
